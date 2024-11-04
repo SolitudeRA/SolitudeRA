@@ -1,7 +1,7 @@
 # Hi there, I'm SolitudeRA 🪐
 [![Header](https://r2brand.solitudera.com/github-banner.gif)](https://www.solitudera.com/)
 
-<div style="text-align: center; margin-top: 35px;margin-bottom: 25px">
+<p style="text-align: center; margin-top: 35px;margin-bottom: 25px">
     <a href="https://space.bilibili.com/1724972">
         <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-black?style=flat&logo=bilibili">
     </a>
@@ -17,7 +17,7 @@
     <a href="https://open.spotify.com/user/29a85ixn15w4zcbmb0lkix9h3?si=6211fecabee34cb6">
         <img alt="Spotify" src="https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify">
     </a>
-</div>
+</p>
 
 - 🎓 **Educational Background**: Master Program at Shibaura Institute of Technology
 - 🌏 **Living in**: Tokyo, Japan
