@@ -1,7 +1,8 @@
 # Hi there, I'm SolitudeRA 🪐
 [![Header](https://r2brand.solitudera.com/github-banner.gif)](https://www.solitudera.com/)
 
-<div align="center">
+    
+<h1 align="center">
     <a href="https://space.bilibili.com/1724972">
         <img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-black?style=flat&logo=bilibili">
     </a>
@@ -11,13 +12,16 @@
     <a href="https://qiita.com/SolitudeRA">
         <img alt="Qiita" src="https://img.shields.io/badge/Qiita-black?style=flat&logo=qiita">
     </a>
+    <a href="https://zenn.dev/solitudera">
+        <img alt="Zenn" src="https://img.shields.io/badge/Zenn-black?style=flat&logo=zenn">
+    </a>
     <a href="https://steamcommunity.com/id/SolitudeRA">
         <img alt="Steam" src="https://img.shields.io/badge/Steam-black?style=flat&logo=steam">
     </a>
     <a href="https://open.spotify.com/user/29a85ixn15w4zcbmb0lkix9h3?si=6211fecabee34cb6">
         <img alt="Spotify" src="https://img.shields.io/badge/Spotify-black?style=flat&logo=spotify">
     </a>
-</div>
+</h1>
 
 - 🎓 **Educational Background**: Master Program at Shibaura Institute of Technology
 - 🌏 **Living in**: Tokyo, Japan
