@@ -47,10 +47,13 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass)
+![Less](https://img.shields.io/badge/-Less-000000?style=flat&logo=less)
 
 ### Framework & Techs
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-000000?style=flat&logo=spring)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-000000?style=flat&logo=googlechrome)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
@@ -67,6 +70,8 @@
 
 ### Tools
 
+![npm](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![Grafana](https://img.shields.io/badge/-Grafana-000000?style=flat&logo=grafana)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
