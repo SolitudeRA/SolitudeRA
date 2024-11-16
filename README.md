@@ -78,4 +78,5 @@
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=jetbrains)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
+![Mendeley](https://img.shields.io/badge/-Mendeley-000000?style=flat&logo=mendeley)
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack)
