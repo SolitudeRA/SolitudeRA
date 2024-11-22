@@ -55,6 +55,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-000000?style=flat&logo=googlechrome)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
