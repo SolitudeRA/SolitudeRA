@@ -9,11 +9,11 @@
     <a href="https://x.com/SolitudeRA">
         <img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat&logo=x">
     </a>
-    <a href="https://qiita.com/SolitudeRA">
-        <img alt="Qiita" src="https://img.shields.io/badge/Qiita-black?style=flat&logo=qiita">
-    </a>
     <a href="https://zenn.dev/solitudera">
         <img alt="Zenn" src="https://img.shields.io/badge/Zenn-black?style=flat&logo=zenn">
+    </a>
+    <a href="https://qiita.com/SolitudeRA">
+        <img alt="Qiita" src="https://img.shields.io/badge/Qiita-black?style=flat&logo=qiita">
     </a>
     <a href="https://steamcommunity.com/id/SolitudeRA">
         <img alt="Steam" src="https://img.shields.io/badge/Steam-black?style=flat&logo=steam">
