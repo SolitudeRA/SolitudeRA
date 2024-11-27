@@ -76,6 +76,7 @@
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat&logo=jira)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000000?style=flat&logo=githubactions)
 ![Jetbrains](https://img.shields.io/badge/-Jetbrains-000000?style=flat&logo=jetbrains)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion)
