@@ -59,6 +59,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000000?style=flat&logo=neo4j)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
