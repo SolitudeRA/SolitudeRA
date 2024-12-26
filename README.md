@@ -51,6 +51,7 @@
 ### Framework & Techs
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-000000?style=flat&logo=spring)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-000000?style=flat&logo=googlechrome)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
