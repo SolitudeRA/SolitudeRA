@@ -53,6 +53,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
 ![Astro](https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+![Tailwind_CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwindcss)
 ![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-000000?style=flat&logo=googlechrome)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=nodedotjs)
